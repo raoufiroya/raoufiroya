@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hello 👋 I'm Roya Raoufi</h1>
 
-<!--
-**raoufiroya/raoufiroya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  👨‍💻 Full-Stack .NET Developer with 10+ years of experience  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Skills
+
+- 💻 Desktop: WinForms, WPF, MAUI, Xamarin.Forms  
+- 🌐 Web: Web Forms, Razor Pages, Blazor, RESTful APIs  
+- 🛠 Backend: ASP.NET Core, Entity Framework, SQL Server  
+- 🧱 Frontend: HTML, CSS, JavaScript, Angular, React  
+- 💡 Other Languages: C++, Python, Java  
+- 🧪 Familiar with testing concepts, software design, and layered architecture
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact" />
+</p>
+
+---
+
+### 📫 Contact Me
+
+- ✉️ Email: raoufi.roya@gmail.com
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/roya-raoufi-007b01168)
+
+---
+
+<p align="center">Thanks for visiting! 🙏</p>
