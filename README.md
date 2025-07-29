@@ -17,15 +17,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact" />
-</p>
-
----
-
 ### 📫 Contact Me
 
 - ✉️ Email: raoufi.roya@gmail.com
